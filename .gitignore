@@ -1,0 +1,11 @@
+.vscode
+
+# Keil IDE build file
+DebugConfig
+Listings
+Objects
+JLinkLog.txt
+JLinkSettings.ini
+iMXRT5xx-NOR.FLM
+iMXRT5xx-Loader.uvoptx
+iMXRT5xx-Loader.uvguix.*

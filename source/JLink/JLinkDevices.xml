@@ -1,0 +1,9 @@
+<DataBase>
+  <!--                 -->
+  <!-- NXP (iMXRT5xx)  -->
+  <!--                 -->
+  <Device>
+    <ChipInfo Vendor="NXP" Name="COROS_iMXRT5xx_NOR" WorkRAMAddr="0x10000000" WorkRAMSize="0x00010000" Core="JLINK_CORE_CORTEX_M33" JLinkScriptFile="Devices/NXP/iMXRT5xx/iMXRT5xx_CortexM33_Custom.JLinkScript" />
+    <FlashBankInfo Name="OctalFlash" BaseAddr="0x08000000" MaxSize="0x04000000" Loader="Devices/NXP/iMXRT5xx/iMXRT5xx-NOR.FLM" LoaderType="FLASH_ALGO_TYPE_OPEN" />
+  </Device>
+</DataBase>
